@@ -15,7 +15,6 @@ It trains on the **Kaggle `splcher/animefacedataset`** (via `kagglehub`) and inc
 
 ---
 
-
 ## Dataset
 
 - **Source:** Kaggle → `splcher/animefacedataset`
